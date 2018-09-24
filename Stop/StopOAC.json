@@ -1,0 +1,9 @@
+{
+    "force":"<FORCE SHUTDOWN true/false>",
+    "allServiceHosts":"<MANAGE ALL HOSTS (In case of Cluster) true/false>",
+    "components":{
+        "BI":{
+            "hosts":[]
+        }
+    }
+}

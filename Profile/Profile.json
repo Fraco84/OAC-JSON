@@ -1,0 +1,11 @@
+{
+    "username":"<ORACLE CLOUD USERNAME>",
+    "password":"<ORACLE CLOUD PASSWORD>",
+    "identityDomain":"<ORACLE CLOUD IDENTITY DOMAIN>",
+    "region":"<ORACLE CLOUS REGION (emea/us/...)>",
+    "outputFormat":"<FORMAT (short/html/json)>",
+    "oAuth":{ 
+        "clientId":"<CLIENT ID for OAUTH (NULL if no OAuth)>",
+        "clientSecret":"<CLIENT SECRET for OAUTH (NULL if no OAuth)>"
+    }
+}
