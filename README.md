@@ -10,3 +10,5 @@ This repo contains detailed JSON payloads to be used with PSM Cli of Oracle Anal
 
 ## Stop
 [Contains](./Stop) the JSON Payload to stop an Instance
+
+Written by FTisiot
