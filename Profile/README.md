@@ -19,3 +19,5 @@ psm setup -c Profile.json
 | outputFormat | PSM Commands output format | json/short/html |
 | clientID | OAuth Client Id (Null if no OAuth) | abc |
 | clientSecret | OAuth Client Secret (Null if no OAuth) | a123 | 
+
+If No OAuth is needed the whole `OAuth` section must be omitted
